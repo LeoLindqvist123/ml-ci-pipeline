@@ -19,3 +19,4 @@ mlruns/
 mlflow.db
 optuna.db
 .DS_Store
+reports/
